@@ -1,0 +1,9 @@
+C:\G29_Autodriving\g29_AutoDriving\g29_AutoDriving\obj\Debug\g29_AutoDriving.csprojAssemblyReference.cache
+C:\G29_Autodriving\g29_AutoDriving\g29_AutoDriving\obj\Debug\g29_AutoDriving.Form1.resources
+C:\G29_Autodriving\g29_AutoDriving\g29_AutoDriving\obj\Debug\g29_AutoDriving.Properties.Resources.resources
+C:\G29_Autodriving\g29_AutoDriving\g29_AutoDriving\obj\Debug\g29_AutoDriving.csproj.GenerateResource.cache
+C:\G29_Autodriving\g29_AutoDriving\g29_AutoDriving\bin\Debug\g29_AutoDriving.exe.config
+C:\G29_Autodriving\g29_AutoDriving\g29_AutoDriving\bin\Debug\g29_AutoDriving.exe
+C:\G29_Autodriving\g29_AutoDriving\g29_AutoDriving\bin\Debug\g29_AutoDriving.pdb
+C:\G29_Autodriving\g29_AutoDriving\g29_AutoDriving\obj\Debug\g29_AutoDriving.exe
+C:\G29_Autodriving\g29_AutoDriving\g29_AutoDriving\obj\Debug\g29_AutoDriving.pdb
