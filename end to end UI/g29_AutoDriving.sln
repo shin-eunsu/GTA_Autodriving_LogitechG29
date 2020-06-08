@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "g29_AutoDriving", "g29_AutoDriving\g29_AutoDriving.csproj", "{22CBE8AC-E614-4343-A394-87932F00EBBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22CBE8AC-E614-4343-A394-87932F00EBBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22CBE8AC-E614-4343-A394-87932F00EBBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22CBE8AC-E614-4343-A394-87932F00EBBA}.Debug|x64.ActiveCfg = Debug|x64
+		{22CBE8AC-E614-4343-A394-87932F00EBBA}.Debug|x64.Build.0 = Debug|x64
+		{22CBE8AC-E614-4343-A394-87932F00EBBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22CBE8AC-E614-4343-A394-87932F00EBBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22CBE8AC-E614-4343-A394-87932F00EBBA}.Release|x64.ActiveCfg = Release|x64
+		{22CBE8AC-E614-4343-A394-87932F00EBBA}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4FEFAAF-6851-474B-8537-DFA443469FA3}
+	EndGlobalSection
+EndGlobal
