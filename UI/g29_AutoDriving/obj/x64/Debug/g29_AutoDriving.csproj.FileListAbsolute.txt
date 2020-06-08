@@ -1,0 +1,36 @@
+C:\G29_Autodriving\g29_AutoDriving\g29_AutoDriving\bin\x64\Debug\g29_AutoDriving.exe.config
+C:\G29_Autodriving\g29_AutoDriving\g29_AutoDriving\bin\x64\Debug\g29_AutoDriving.exe
+C:\G29_Autodriving\g29_AutoDriving\g29_AutoDriving\bin\x64\Debug\g29_AutoDriving.pdb
+C:\G29_Autodriving\g29_AutoDriving\g29_AutoDriving\obj\x64\Debug\g29_AutoDriving.csprojAssemblyReference.cache
+C:\G29_Autodriving\g29_AutoDriving\g29_AutoDriving\obj\x64\Debug\g29_AutoDriving.Form1.resources
+C:\G29_Autodriving\g29_AutoDriving\g29_AutoDriving\obj\x64\Debug\g29_AutoDriving.Properties.Resources.resources
+C:\G29_Autodriving\g29_AutoDriving\g29_AutoDriving\obj\x64\Debug\g29_AutoDriving.csproj.GenerateResource.cache
+C:\G29_Autodriving\g29_AutoDriving\g29_AutoDriving\obj\x64\Debug\g29_AutoDriving.exe
+C:\G29_Autodriving\g29_AutoDriving\g29_AutoDriving\obj\x64\Debug\g29_AutoDriving.pdb
+C:\G29_Autodriving\g29_AutoDriving\g29_AutoDriving\bin\x64\Debug\OpenCvSharp.Blob.dll
+C:\G29_Autodriving\g29_AutoDriving\g29_AutoDriving\bin\x64\Debug\OpenCvSharp.dll
+C:\G29_Autodriving\g29_AutoDriving\g29_AutoDriving\bin\x64\Debug\OpenCvSharp.Extensions.dll
+C:\G29_Autodriving\g29_AutoDriving\g29_AutoDriving\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\G29_Autodriving\g29_AutoDriving\g29_AutoDriving\bin\x64\Debug\OpenCvSharp.xml
+C:\G29_Autodriving\g29_AutoDriving\g29_AutoDriving\bin\x64\Debug\OpenCvSharp.Blob.xml
+C:\G29_Autodriving\g29_AutoDriving\g29_AutoDriving\bin\x64\Debug\OpenCvSharp.Extensions.xml
+C:\G29_Autodriving\g29_AutoDriving\g29_AutoDriving\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\G29_Autodriving\g29_AutoDriving\g29_AutoDriving\obj\x64\Debug\g29_AutoDriving.csproj.CopyComplete
+D:\이력서\프로젝트\비트 프로젝트 정리\영상인식 자율주행 2조 소스코드 제출용 2020.05.21\end to end UI\g29_AutoDriving\bin\x64\Debug\g29_AutoDriving.exe.config
+D:\이력서\프로젝트\비트 프로젝트 정리\영상인식 자율주행 2조 소스코드 제출용 2020.05.21\end to end UI\g29_AutoDriving\bin\x64\Debug\g29_AutoDriving.exe
+D:\이력서\프로젝트\비트 프로젝트 정리\영상인식 자율주행 2조 소스코드 제출용 2020.05.21\end to end UI\g29_AutoDriving\bin\x64\Debug\g29_AutoDriving.pdb
+D:\이력서\프로젝트\비트 프로젝트 정리\영상인식 자율주행 2조 소스코드 제출용 2020.05.21\end to end UI\g29_AutoDriving\bin\x64\Debug\OpenCvSharp.Blob.dll
+D:\이력서\프로젝트\비트 프로젝트 정리\영상인식 자율주행 2조 소스코드 제출용 2020.05.21\end to end UI\g29_AutoDriving\bin\x64\Debug\OpenCvSharp.dll
+D:\이력서\프로젝트\비트 프로젝트 정리\영상인식 자율주행 2조 소스코드 제출용 2020.05.21\end to end UI\g29_AutoDriving\bin\x64\Debug\OpenCvSharp.Extensions.dll
+D:\이력서\프로젝트\비트 프로젝트 정리\영상인식 자율주행 2조 소스코드 제출용 2020.05.21\end to end UI\g29_AutoDriving\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\이력서\프로젝트\비트 프로젝트 정리\영상인식 자율주행 2조 소스코드 제출용 2020.05.21\end to end UI\g29_AutoDriving\bin\x64\Debug\OpenCvSharp.xml
+D:\이력서\프로젝트\비트 프로젝트 정리\영상인식 자율주행 2조 소스코드 제출용 2020.05.21\end to end UI\g29_AutoDriving\bin\x64\Debug\OpenCvSharp.Blob.xml
+D:\이력서\프로젝트\비트 프로젝트 정리\영상인식 자율주행 2조 소스코드 제출용 2020.05.21\end to end UI\g29_AutoDriving\bin\x64\Debug\OpenCvSharp.Extensions.xml
+D:\이력서\프로젝트\비트 프로젝트 정리\영상인식 자율주행 2조 소스코드 제출용 2020.05.21\end to end UI\g29_AutoDriving\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\이력서\프로젝트\비트 프로젝트 정리\영상인식 자율주행 2조 소스코드 제출용 2020.05.21\end to end UI\g29_AutoDriving\obj\x64\Debug\g29_AutoDriving.csprojAssemblyReference.cache
+D:\이력서\프로젝트\비트 프로젝트 정리\영상인식 자율주행 2조 소스코드 제출용 2020.05.21\end to end UI\g29_AutoDriving\obj\x64\Debug\g29_AutoDriving.Form1.resources
+D:\이력서\프로젝트\비트 프로젝트 정리\영상인식 자율주행 2조 소스코드 제출용 2020.05.21\end to end UI\g29_AutoDriving\obj\x64\Debug\g29_AutoDriving.Properties.Resources.resources
+D:\이력서\프로젝트\비트 프로젝트 정리\영상인식 자율주행 2조 소스코드 제출용 2020.05.21\end to end UI\g29_AutoDriving\obj\x64\Debug\g29_AutoDriving.csproj.GenerateResource.cache
+D:\이력서\프로젝트\비트 프로젝트 정리\영상인식 자율주행 2조 소스코드 제출용 2020.05.21\end to end UI\g29_AutoDriving\obj\x64\Debug\g29_AutoDriving.csproj.CopyComplete
+D:\이력서\프로젝트\비트 프로젝트 정리\영상인식 자율주행 2조 소스코드 제출용 2020.05.21\end to end UI\g29_AutoDriving\obj\x64\Debug\g29_AutoDriving.exe
+D:\이력서\프로젝트\비트 프로젝트 정리\영상인식 자율주행 2조 소스코드 제출용 2020.05.21\end to end UI\g29_AutoDriving\obj\x64\Debug\g29_AutoDriving.pdb
