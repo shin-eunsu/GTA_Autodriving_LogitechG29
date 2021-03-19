@@ -3,7 +3,7 @@
 ## 개발환경
 ### OS : windows10, Ubuntu 16.04
 ### HW : Jetson TX2, Arduino, Logitech g29
-### Python, C, C#, OpenCV, YOLO V3, Keras
+### Python, C, C#, OpenCV, YOLO V3, Keras        
   
   
   
