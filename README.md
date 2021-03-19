@@ -6,6 +6,7 @@
 ### Python, C, C#, OpenCV, YOLO V3, Keras
 
 
+
 ## 프로젝트 구조
 
 ### System
@@ -21,12 +22,12 @@
 
 ### Network Architecture
 ![image](https://user-images.githubusercontent.com/57925362/111738082-1576b200-88c4-11eb-8b49-0d2ab163a580.png)
+![image](https://user-images.githubusercontent.com/57925362/111739316-304a2600-88c6-11eb-944b-2f846f0b6efc.png)
+
 
 ### Model1 Test
-![image](https://user-images.githubusercontent.com/57925362/111738115-20c9dd80-88c4-11eb-917a-1cfaec249d1f.png)
-![image](https://user-images.githubusercontent.com/57925362/111738125-23c4ce00-88c4-11eb-8809-230f98a52f4a.png)
-![image](https://user-images.githubusercontent.com/57925362/111738128-24f5fb00-88c4-11eb-99d0-1cb13f7f0cb1.png)
-![image](https://user-images.githubusercontent.com/57925362/111738132-26272800-88c4-11eb-9920-ed4a3e67112f.png)
+https://user-images.githubusercontent.com/57925362/111741429-dcd9d700-88c9-11eb-85f9-a6f940c3e57b.mp4
+https://user-images.githubusercontent.com/57925362/111741434-dfd4c780-88c9-11eb-9869-00dee97f00cf.mp4
 
 
 ### Model1 문제점 확인
@@ -36,20 +37,36 @@
 
 
 ### Model2 Test
-![image](https://user-images.githubusercontent.com/57925362/111738221-4b1b9b00-88c4-11eb-9c26-5c5cf4065e0e.png)
+
+https://user-images.githubusercontent.com/57925362/111741456-e6fbd580-88c9-11eb-9844-65ed4eae4b3c.mp4
+
+
+https://user-images.githubusercontent.com/57925362/111741460-e7946c00-88c9-11eb-9435-c742662868da.mp4
+
+
+https://user-images.githubusercontent.com/57925362/111741476-ec592000-88c9-11eb-91d4-59affc0610ba.mp4
+
 
 ### Model2 문제점
 ![image](https://user-images.githubusercontent.com/57925362/111738230-51117c00-88c4-11eb-8853-09b56196ad2b.png)
 
 
 ### Model3 Test
-![image](https://user-images.githubusercontent.com/57925362/111738303-756d5880-88c4-11eb-9f28-ef6c1267c503.png)
-![image](https://user-images.githubusercontent.com/57925362/111738308-7605ef00-88c4-11eb-8f54-aaf27b8918c4.png)
-![image](https://user-images.githubusercontent.com/57925362/111738312-77371c00-88c4-11eb-8180-8795f25200bc.png)
+
+https://user-images.githubusercontent.com/57925362/111741493-f1b66a80-88c9-11eb-9fae-97cc32577057.mp4
+
+https://user-images.githubusercontent.com/57925362/111743478-1cee8900-88cd-11eb-97e4-ecad99234e73.mp4
+
+https://user-images.githubusercontent.com/57925362/111743481-1e1fb600-88cd-11eb-8853-209515c03706.mp4
+
+
+
 
 
 ## 문제점
 ![image](https://user-images.githubusercontent.com/57925362/111738345-8918bf00-88c4-11eb-8fc7-4059595c9d60.png)
+
+
 
 
 ## REFFERENCE
@@ -58,6 +75,7 @@ https://github.com/microsoft/AutonomousDrivingCookbook/tree/master/AirSimE2EDeep
 
 [2] End-to-end Driving via Conditional Imitation Learning
 https://arxiv.org/abs/1710.02410
+
 
 [3] Autonomous Vehicle Control: End-to-end Learning in Simulated Urban Environments
 https://arxiv.org/abs/1905.06712
