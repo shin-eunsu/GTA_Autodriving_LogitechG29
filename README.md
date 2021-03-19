@@ -66,21 +66,21 @@ https://user-images.githubusercontent.com/57925362/111743481-1e1fb600-88cd-11eb-
 
 
 ## REFFERENCE
-[1] Microsoft Airsim, Autonomous Driving using End-to-End Deep Learning: an AirSim tutorial
-https://github.com/microsoft/AutonomousDrivingCookbook/tree/master/AirSimE2EDeepLearning
+[1] Microsoft Airsim, Autonomous Driving using End-to-End Deep Learning: an AirSim tutorial  
+https://github.com/microsoft/AutonomousDrivingCookbook/tree/master/AirSimE2EDeepLearning  
 
-[2] End-to-end Driving via Conditional Imitation Learning
-https://arxiv.org/abs/1710.02410
+[2] End-to-end Driving via Conditional Imitation Learning  
+https://arxiv.org/abs/1710.02410  
 
-[3] Autonomous Vehicle Control: End-to-end Learning in Simulated Urban Environments
-https://arxiv.org/abs/1905.06712
+[3] Autonomous Vehicle Control: End-to-end Learning in Simulated Urban Environments  
+https://arxiv.org/abs/1905.06712  
 
-[4] End to End Learning for Self-Driving Cars - NVIDIA
-https://devblogs.nvidia.com/deep-learning-self-driving-cars/
+[4] End to End Learning for Self-Driving Cars - NVIDIA  
+https://devblogs.nvidia.com/deep-learning-self-driving-cars/  
 
-[5] Yolo darknet
-https://github.com/pjreddie/darknet
+[5] Yolo darknet  
+https://github.com/pjreddie/darknet  
 
-[6] AlexeyAB darknet
-https://github.com/AlexeyAB/darknet
+[6] AlexeyAB darknet  
+https://github.com/AlexeyAB/darknet  
 
