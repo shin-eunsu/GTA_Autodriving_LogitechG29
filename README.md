@@ -9,80 +9,78 @@
  <br> 
 
 ## 프로젝트 구조
- <br> 
+
 ### System
 ![image](https://user-images.githubusercontent.com/57925362/111737952-db0d1500-88c3-11eb-9739-a85849ae009f.png)
- <br> 
+
 ![image](https://user-images.githubusercontent.com/57925362/111738047-042da580-88c4-11eb-863f-6710b7e2f44d.png)
- <br>  
+
 ![image](https://user-images.githubusercontent.com/57925362/111738050-068fff80-88c4-11eb-9fa8-bea86933463b.png)
- <br> 
+
 ### DataSet
 ![image](https://user-images.githubusercontent.com/57925362/111738064-0e4fa400-88c4-11eb-9d4d-ea3a94e032f0.png)
- <br> 
- <br> 
+
+
 ### Network Architecture
 ![image](https://user-images.githubusercontent.com/57925362/111738082-1576b200-88c4-11eb-8b49-0d2ab163a580.png)
 ![image](https://user-images.githubusercontent.com/57925362/111739316-304a2600-88c6-11eb-944b-2f846f0b6efc.png)
- <br> 
- <br> 
+
+
 ### Model1 Test
 https://user-images.githubusercontent.com/57925362/111741429-dcd9d700-88c9-11eb-85f9-a6f940c3e57b.mp4
 https://user-images.githubusercontent.com/57925362/111741434-dfd4c780-88c9-11eb-9869-00dee97f00cf.mp4
- <br> 
- <br> 
+
+
 ### Model1 문제점 확인
 ![image](https://user-images.githubusercontent.com/57925362/111738174-38a16180-88c4-11eb-8e21-9dbbcf09dde6.png)
- <br> 
+
 ![image](https://user-images.githubusercontent.com/57925362/111738189-3e974280-88c4-11eb-8550-85f6c4a462e8.png)
- <br> 
- <br> 
+
+
 ### Model2 Test
- <br> 
+
 https://user-images.githubusercontent.com/57925362/111741456-e6fbd580-88c9-11eb-9844-65ed4eae4b3c.mp4
- <br> 
+
 https://user-images.githubusercontent.com/57925362/111741460-e7946c00-88c9-11eb-9435-c742662868da.mp4
- <br> 
+
 https://user-images.githubusercontent.com/57925362/111741476-ec592000-88c9-11eb-91d4-59affc0610ba.mp4
- <br> 
- <br> 
-### Model2 문제점
+
+
+문제점
 ![image](https://user-images.githubusercontent.com/57925362/111738230-51117c00-88c4-11eb-8853-09b56196ad2b.png)
- <br> 
- <br> 
+
+
 ### Model3 Test
- <br> 
+
 https://user-images.githubusercontent.com/57925362/111741493-f1b66a80-88c9-11eb-9fae-97cc32577057.mp4
- <br> 
+
 https://user-images.githubusercontent.com/57925362/111743478-1cee8900-88cd-11eb-97e4-ecad99234e73.mp4
- <br> 
+
 https://user-images.githubusercontent.com/57925362/111743481-1e1fb600-88cd-11eb-8853-209515c03706.mp4
- <br> 
- <br> 
- <br> 
- <br> 
+
+
+
 ## 문제점
 ![image](https://user-images.githubusercontent.com/57925362/111738345-8918bf00-88c4-11eb-8fc7-4059595c9d60.png)
- <br> 
- <br> 
- <br> 
- <br> 
+
+
+
 ## REFFERENCE
 [1] Microsoft Airsim, Autonomous Driving using End-to-End Deep Learning: an AirSim tutorial
 https://github.com/microsoft/AutonomousDrivingCookbook/tree/master/AirSimE2EDeepLearning
- <br> 
+
 [2] End-to-end Driving via Conditional Imitation Learning
 https://arxiv.org/abs/1710.02410
- <br> 
+
 [3] Autonomous Vehicle Control: End-to-end Learning in Simulated Urban Environments
 https://arxiv.org/abs/1905.06712
- <br> 
+
 [4] End to End Learning for Self-Driving Cars - NVIDIA
 https://devblogs.nvidia.com/deep-learning-self-driving-cars/
- <br> 
+
 [5] Yolo darknet
 https://github.com/pjreddie/darknet
- <br> 
+
 [6] AlexeyAB darknet
 https://github.com/AlexeyAB/darknet
- <br> 
+
