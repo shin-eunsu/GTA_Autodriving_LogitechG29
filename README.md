@@ -4,16 +4,16 @@
 ### OS : windows10, Ubuntu 16.04
 ### HW : Jetson TX2, Arduino, Logitech g29
 ### Python, C, C#, OpenCV, YOLO V3, Keras        
-  
-  
-  
+<br> 
+<br>
+<br> 
 ## 프로젝트 구조
-  
+<br>
 ### System
 ![image](https://user-images.githubusercontent.com/57925362/111737952-db0d1500-88c3-11eb-9739-a85849ae009f.png)
-  
+<br>
 ![image](https://user-images.githubusercontent.com/57925362/111738047-042da580-88c4-11eb-863f-6710b7e2f44d.png)
-  
+<br> 
 ![image](https://user-images.githubusercontent.com/57925362/111738050-068fff80-88c4-11eb-9fa8-bea86933463b.png)
   
 ### DataSet
